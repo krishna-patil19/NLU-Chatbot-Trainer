@@ -4,11 +4,11 @@
 
 A comprehensive platform for building, training, and deploying intelligent **Natural Language Understanding (NLU)** chatbots powered by advanced **Machine Learning** algorithms and **RASA** framework.
 
-![Watch Presentation](https://github.com/thotasravyavardhani/nlu-ml-chatbot-maker/blob/master/Thota%20Sravya%20Vardhani%20-%20Infosys%20NLU%20Chatbot.gif)
+![Watch Presentation](https://github.com/krishna-patil19/NLU-Chatbot-Trainer/blob/main/Krishna%20Patil%20-%20Infosys%20NLU%20Chatbot.gif)
 
 Explore the architecture, design philosophy, and future roadmap of the NLU ML Chatbot Maker in our official presentation.
 
-[**📄 View Project Presentation (PDF)**](https://github.com/thotasravyavardhani/nlu-ml-chatbot-maker/blob/master/Thota%20Sravya%20Vardhani%20-%20Infosys%20NLU%20Chatbot.pdf)
+[**📄 View Project Presentation (PDF)**](https://github.com/krishna-patil19/NLU-Chatbot-Trainer/blob/main/Krishna%20Patil%20-%20Infosys%20NLU%20Chatbot.pdf)
 
 **Highlights:**
 
